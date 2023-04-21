@@ -1,0 +1,16 @@
+h1 {
+    color: #00366f;
+}
+
+.evenParagraph {
+    background-color: burlywood;
+    font-style: italic;
+}
+
+#thirdParagraph{
+    border : 4px solid goldenrod;
+}
+
+.firstLetter {
+    font-size: 50px;
+}
